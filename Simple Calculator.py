@@ -31,6 +31,6 @@ def simple_calculator():
         else:
             print("Invalid choice. Please pick a number between 1 and 5")
 
-    if __name__ == "__main__":
+if __name__ == "__main__":
         simple_calculator()
 
